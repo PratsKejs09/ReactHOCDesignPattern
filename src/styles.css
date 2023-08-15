@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.comp1 {
+  width: 100px;
+  height: 200px;
+}
+.comp2 {
+  width: 200px;
+  height: 100px;
+}
